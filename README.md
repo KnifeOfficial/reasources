@@ -1,0 +1,2 @@
+# reasources
+serverreasource
